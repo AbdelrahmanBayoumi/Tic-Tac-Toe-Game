@@ -13,9 +13,10 @@ A simple Tic-Tac-Toe game (2 players) using JavaFX Platform for desktop applicat
 - [FontawesomeFX 8.9](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
 - [Jfoenix 8.9](http://www.jfoenix.com/)
 
-### Screenshots
+## Demo
 
-![Screenshot](https://user-images.githubusercontent.com/48678280/71315175-128dd700-245f-11ea-87b0-846f626d780c.png)
+![Screenshot](https://user-images.githubusercontent.com/48678280/87463859-6ab24380-c612-11ea-9ad4-586d9dcfbd02.gif)
+
 
 <br><br>
 > سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ.
