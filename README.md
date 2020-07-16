@@ -29,7 +29,7 @@ This project uses [JavaFX](https://openjfx.io/) to build GUI Decktop Application
 ## Demo
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/48678280/87463859-6ab24380-c612-11ea-9ad4-586d9dcfbd02.gif" width="90% hieght=="90%>
+<img src="https://user-images.githubusercontent.com/48678280/87463859-6ab24380-c612-11ea-9ad4-586d9dcfbd02.gif" width="40% hieght=="40%>
 </div>
 
 ## ☑ TODO
